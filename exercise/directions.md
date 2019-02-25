@@ -41,7 +41,6 @@ Make a commit after each step!
         > grape.txt
 
        in this file insert the text:
-
         > I'm a grape!
 
     b. In your red directory, create a file called
