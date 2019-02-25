@@ -57,7 +57,6 @@ Make a commit after each step!
         >     '-(_)-(_)----'v'-(_)--'
 
        and the text:
-
         > I'm a firetruck!
 
 #### 3. Moving Files Around
